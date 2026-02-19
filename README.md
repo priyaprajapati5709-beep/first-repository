@@ -6,11 +6,11 @@
 🚀 I love building creative and responsive websites.  
 📚 I am continuously improving my coding skills.
 
-## 🔧 Skills
+##  Skills
 - HTML
 - CSS
 - Basic JavaScript
 - Git & GitHub
 
-## 📌 About This Repository
+##  About This Repository
 This is my first GitHub repository where I am starting my coding journey.
